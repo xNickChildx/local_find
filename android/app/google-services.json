@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910191482735",
+    "firebase_url": "https://nickapp-cc6fa.firebaseio.com",
+    "project_id": "nickapp-cc6fa",
+    "storage_bucket": "nickapp-cc6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910191482735:android:6c6608ef9c2ba12bd87a9a",
+        "android_client_info": {
+          "package_name": "com.example.wink_city"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910191482735-b89uimha0tpvfckko9m11rlhmk68q5iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBByuYmhLBaJUKBD6PBBgr0suph2tCpVXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910191482735-b89uimha0tpvfckko9m11rlhmk68q5iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
